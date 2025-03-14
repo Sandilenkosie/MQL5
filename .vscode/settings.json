@@ -5,5 +5,8 @@
     "files.associations": {
         "*.mqh": "cpp",
         "*.mq5": "cpp"
-    }
+    },
+    "C_Cpp.default.includePath": [
+        "c:\\Program Files\\MetaTrader 5 Terminal\\MQL5\\Include"
+    ]
 }
