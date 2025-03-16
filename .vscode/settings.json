@@ -1,12 +1,12 @@
 {
     "C_Cpp.default.forcedInclude": [
-        "c:\\Users\\Sandile Nkosi\\.vscode\\extensions\\l-i-v.mql-tools-2.1.0\\data\\mql5_en.mqh"
+        "c:\\Users\\thron\\.vscode\\extensions\\l-i-v.mql-tools-2.1.0\\data\\mql5_en.mqh"
     ],
     "files.associations": {
         "*.mqh": "cpp",
         "*.mq5": "cpp"
     },
     "C_Cpp.default.includePath": [
-        "c:\\Program Files\\MetaTrader 5 Terminal\\MQL5\\Include"
+        "c:\\Users\\thron\\AppData\\Roaming\\MetaQuotes\\Terminal\\FB9A56D617EDDDFE29EE54EBEFFE96C1\\MQL5\\Include"
     ]
 }
